@@ -72,7 +72,7 @@ Hemos utilizado el siguiente script:
 ```bash
 python preparan_evaluacion.py
 ```
-Despues para el resultado el siguiente script:
+Despues para el resultado  se tiene que ejecutar el siguiente script:
 
 ```bash
 python evaluador_retrivel.py
